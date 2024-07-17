@@ -1,3 +1,4 @@
 python -m venv .env
 source .venv/bin/activate
-python -m pip install relationalai
+pip install relationalai
+pip install snowflake-cli-labs
