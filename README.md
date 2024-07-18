@@ -12,4 +12,4 @@ you need when you `cd` into it in the terminal.
 
 ### 'Getting Started'
 
-Follow the [getting-started]() README.md
+Follow the [getting-started](getting-started/README.md) README.md
