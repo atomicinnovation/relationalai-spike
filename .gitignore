@@ -6,4 +6,7 @@
 **/.iml
 .idea
 
+# Env vars
+**/*.env
+
 **/*.jsonl
