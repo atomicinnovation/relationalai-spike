@@ -9,3 +9,7 @@
 **/*.env
 
 **/*.jsonl
+
+raiconfig.toml
+
+**/.ipynb_checkpoints
